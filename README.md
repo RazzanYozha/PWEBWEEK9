@@ -1,5 +1,6 @@
-Ini adalah aplikasi web sederhana yang dibuat menggunakan PHP dan MySQL untuk melakukan pendaftaran siswa baru secara online. Aplikasi ini memungkinkan siswa mengisi formulir dan menyimpan datanya ke dalam database.
-Proyek ini dijalankan secara lokal menggunakan XAMPP dan diakses melalui browser dengan localhost.
+ini adalah aplikasi web yang digunakan untuk pendaftaran siswa, dibuat dengan PHP dan MySQL, aplikasi ini memungkinkan siswa baru untuk mendaftar di sekolah baru
+
+proyek ini dijalankan secara lokal menggunakan XAMPP dan diakses melaluli browser dangan localhost
 
 Fitur aplikasi yang tersedia dalam web ini antara lain:
 
